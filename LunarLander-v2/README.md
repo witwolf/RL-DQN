@@ -1,7 +1,4 @@
-<div>
-	<img src="https://github.com/witwolf/RL-DQN/tree/master/LunarLander-v2/episode_ave_reward.png"><br>
-</div>
-
+![](https://raw.githubusercontent.com/witwolf/RL-DQN/master/LunarLander-v2/episode_ave_reward.png)
 # Task
 [LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2)
 
